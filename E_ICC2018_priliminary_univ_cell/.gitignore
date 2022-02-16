@@ -1,0 +1,16 @@
+*.svf
+*.fsdb
+*.ddc
+*.qor
+*.sdf.X
+*.vhd
+*.swp
+novas*
+nWaveLog
+report.000
+tsmc13_neg.v
+work
+xcelium.d
+xmverilog.history
+xmverilog.key
+xmverilog.log
